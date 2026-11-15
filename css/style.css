@@ -471,3 +471,9 @@ footer {
     flex-direction: column;
   }
 }
+
+#task-list li button {
+  padding: 6px 14px;
+  margin-left: 8px;
+  font-size: 0.85rem;
+}
